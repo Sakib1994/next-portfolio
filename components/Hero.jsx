@@ -29,7 +29,7 @@ export default function Hero() {
       {roughNotationGroupList}
     </div>
     <div className="hidden lg:block relative w-full md:w-1/2 -mr-20 mt-10">
-      <div className="w-3/4">
+      <div className="w-2/3">
         <img src='/me.jpg' alt="avatar" className="shadow" />
         <div className="flex flex-row justify-between mt-4">
           <div className="flex flex-row space-x-4">

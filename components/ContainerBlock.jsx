@@ -28,7 +28,7 @@ export default function ContainerBlock({children, ...customMeta}) {
           href={`https://yourwebsite.com${router.asPath}`}
         />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Manu Arora" />
+        <meta property="og:site_name" content="Md Nazmus Sakib" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
@@ -41,13 +41,13 @@ export default function ContainerBlock({children, ...customMeta}) {
           <meta property="article:published_time" content={meta.date} />
         )}
       </Head>
-      <header>
+      <header className="bg-gray-100 dark:bg-gray-800">
         <Navbar />
       </header>
-      <main className="w-full dark:bg-gray-700">
+      <main className="w-full bg-gray-100 dark:bg-gray-700">
         <div>{children}</div>
       </main>
-      <footer>
+      <footer className="bg-gray-100 dark:bg-gray-700">
         <Footer />
       </footer>
   </>;
