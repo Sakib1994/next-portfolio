@@ -54,7 +54,7 @@ const userData = {
       description: [
         `I've been developing full-stack application since I was in 3rd year of graduation(2017). I started with Angular 4 and ASP.NET core 1.1. Through geaduation completion Learner Full stack Web development with Angular and ASP.NET core.`,
         `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-        `But now, I'm a legend. I've been coding in React, Angular, Vue, Gin Gonic, MySQL, Bootstrap, Tailwind, C#, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+        `But now, I'm a legend. I've been coding in React, Angular, Vue, Gin Gonic, MySQL, Bootstrap, Tailwind, C#, PHP, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
       ],
       currentProject: "Shatez - Ecommerce",
       currentProjectUrl: "http://shatez.com/",
@@ -85,11 +85,11 @@ const userData = {
     resumeUrl:
       "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
     socialLinks: {
-      instagram: "https://instagram.com/maninthere",
-      twitter: "https://twitter.com/mannupaaji",
-      linkedin: "https://linkedin.com/in/manuarora28",
-      github: "https://github.com/manuarora700",
-      facebook: "https://facebook.com/",
+      instagram: "https://instagram.com/sakib_md.nazmus",
+      twitter: "",
+      linkedin: "https://www.linkedin.com/in/md-nazmus-sakib-59020316b/",
+      github: "https://github.com/sakib1994",
+      facebook: "https://facebook.com/asif.sakib.39",
     },
   };
   
